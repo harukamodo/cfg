@@ -2,4 +2,4 @@ rofi.combi-modi:    window,drun,ssh
 rofi.theme:         Arc-Dark
 rofi.font:          lucy tewi 8
 rofi.modi:          combi
-rofi.theme: /usr/share/rofi/themes/orange.rasi
+rofi.theme: /usr/share/rofi/themes/Monokai.rasi

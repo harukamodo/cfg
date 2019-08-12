@@ -58,7 +58,7 @@ module-margin-left = 1
 module-margin-right = 2
 
 font-0 = DroidSans:pixelsize=10;1
-font-1 = DroidSansJapanese:pixelsize=10;1
+font-1 = HanaMinA:pixelsize=10;1
 font-2 = siji:pixelsize=10;1
 
 modules-left = i3 mpd 
@@ -241,7 +241,7 @@ label = %percentage_used%%
 
 [module/wlan]
 type = internal/network
-interface = wlp2s0
+interface = wlp3s0
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
